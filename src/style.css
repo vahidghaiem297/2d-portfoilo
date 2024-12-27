@@ -260,6 +260,7 @@ nav {
   }
   .hero__title{
     font-size: 50px;
+    bottom: 30px;
   }
   .social{
     left: 50%;
